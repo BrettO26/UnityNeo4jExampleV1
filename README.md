@@ -1,4 +1,4 @@
-# UnityNeo4jExampleV1
+# UnityNeo4jExampleV1 OUTDATED
 
 THIS PROJECT IS OUTDATED. I have a new repository and a tutorial on youtube for how to use it.
 https://github.com/BrettO26/Neo4J_CSharp-Unity-Support-
