@@ -1,5 +1,7 @@
 # UnityNeo4jExampleV1
 
+THIS PROJECT IS OUTDATED. I have a new repository and a tutorial on youtube for how to use it.
+https://github.com/BrettO26/Neo4J_CSharp-Unity-Support-
 
 PreSetup
 	In neo4j execute the following to create the cube and its stored data:
